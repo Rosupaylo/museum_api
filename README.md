@@ -26,3 +26,5 @@
 - POST /api/exhibits - додати експонат
 - PUT /api/exhibits/<id> - оновити експонат
 - DELETE /api/exhibits/<id> - видалити експонат
+
+CI/CD перевірка виконується автоматично через GitHub Actions.
